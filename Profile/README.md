@@ -56,3 +56,18 @@ As an **open-source platform**, TadreebLMS gives organizations full control over
 ## 📄 License
 
 Licensed under the **GNU Affero General Public License (AGPLv3)**.
+
+
+## 🤝 Contributors
+
+Thank you to everyone who has contributed to Tadreeb LMS — your efforts make this project better every day.
+
+We appreciate contributions in:
+- Code
+- Bug reports
+- Documentation
+- Testing and QA
+- UX feedback
+
+👉 Full list of contributors:  
+https://github.com/Tadreeb-LMS/tadreeblms/graphs/contributors
