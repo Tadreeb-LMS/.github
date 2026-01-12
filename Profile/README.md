@@ -4,6 +4,9 @@ TadreebLMS is a modern, open-source **Learning Management System (LMS)** built t
 
 **Our commitment is to develop future-ready leaders through advanced and innovative learning frameworks. We empower students, professionals, and executives with the strategic knowledge and adaptable skills essential for success in today’s fast-changing environment.**
 
+<img width="1000" height="632" alt="hero1" src="https://github.com/user-attachments/assets/68ca111f-8214-48c8-a0db-187f67e20334" />
+
+
 ---
 
 ## 🌍 About TadreebLMS
