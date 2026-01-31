@@ -1,4 +1,4 @@
-# 🚀 TadreebLMS
+# 🚀 TadreebLMS - Opensource Learning Management System for Enterprises.
 ![Stars](https://img.shields.io/github/stars/Tadreeb-LMS/TadreebLMS?style=for-the-badge)
 ![Forks](https://img.shields.io/github/forks/Tadreeb-LMS/TadreebLMS?style=for-the-badge)
 ![Issues](https://img.shields.io/github/issues/Tadreeb-LMS/TadreebLMS?style=for-the-badge)
