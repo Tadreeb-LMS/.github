@@ -1,4 +1,8 @@
 # 🚀 TadreebLMS
+![Stars](https://img.shields.io/github/stars/Tadreeb-LMS/TadreebLMS?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/Tadreeb-LMS/TadreebLMS?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/Tadreeb-LMS/TadreebLMS?style=for-the-badge)
+![License](https://img.shields.io/github/license/Tadreeb-LMS/TadreebLMS?style=for-the-badge)
 
 TadreebLMS is a modern, open-source **Learning Management System (LMS)** built to support educational institutions, training organizations, and professional development programs. It enables seamless delivery of digital learning through structured courses, assessments, progress tracking, and certification.
 
@@ -6,10 +10,7 @@ TadreebLMS is a modern, open-source **Learning Management System (LMS)** built t
 
 <img width="1000" height="632" alt="hero1" src="https://github.com/user-attachments/assets/68ca111f-8214-48c8-a0db-187f67e20334" />
 
-![Stars](https://img.shields.io/github/stars/Tadreeb-LMS/TadreebLMS?style=for-the-badge)
-![Forks](https://img.shields.io/github/forks/Tadreeb-LMS/TadreebLMS?style=for-the-badge)
-![Issues](https://img.shields.io/github/issues/Tadreeb-LMS/TadreebLMS?style=for-the-badge)
-![License](https://img.shields.io/github/license/Tadreeb-LMS/TadreebLMS?style=for-the-badge)
+
 ---
 
 ## 🌍 About TadreebLMS
