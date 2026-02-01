@@ -5,7 +5,7 @@
 [![Issues](https://img.shields.io/github/issues/Tadreeb-LMS/TadreebLMS?style=for-the-badge)](https://github.com/Tadreeb-LMS/TadreebLMS/issues)
 [![Pull Requests](https://img.shields.io/github/issues-pr/Tadreeb-LMS/TadreebLMS?style=for-the-badge)](https://github.com/Tadreeb-LMS/TadreebLMS/pulls)
 [![License](https://img.shields.io/github/license/Tadreeb-LMS/TadreebLMS?style=for-the-badge)](https://github.com/Tadreeb-LMS/TadreebLMS/blob/main/LICENSE)
-[![Docs](https://img.shields.io/badge/docs-online-blue?style=for-the-badge)](https://tadreeblms.com/docs/installation)
+
 
 ---
 
