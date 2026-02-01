@@ -5,6 +5,8 @@
 [![Issues](https://img.shields.io/github/issues/Tadreeb-LMS/TadreebLMS?style=for-the-badge)](https://github.com/Tadreeb-LMS/TadreebLMS/issues)
 [![Pull Requests](https://img.shields.io/github/issues-pr/Tadreeb-LMS/TadreebLMS?style=for-the-badge)](https://github.com/Tadreeb-LMS/TadreebLMS/pulls)
 [![License](https://img.shields.io/github/license/Tadreeb-LMS/TadreebLMS?style=for-the-badge)](https://github.com/Tadreeb-LMS/TadreebLMS/blob/main/LICENSE)
+[![Slack](https://img.shields.io/badge/Slack-Join%20Community-4A154B?logo=slack&logoColor=white&style=for-the-badge)](https://tadreeblms.slack.com/join/XXXXXXXXXXXX)
+
 
 
 ---
