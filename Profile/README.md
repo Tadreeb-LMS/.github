@@ -5,7 +5,7 @@
 [![Issues](https://img.shields.io/github/issues/Tadreeb-LMS/TadreebLMS?style=for-the-badge)](https://github.com/Tadreeb-LMS/TadreebLMS/issues)
 [![Pull Requests](https://img.shields.io/github/issues-pr/Tadreeb-LMS/TadreebLMS?style=for-the-badge)](https://github.com/Tadreeb-LMS/TadreebLMS/pulls)
 [![License](https://img.shields.io/github/license/Tadreeb-LMS/TadreebLMS?style=for-the-badge)](https://github.com/Tadreeb-LMS/TadreebLMS/blob/main/LICENSE)
-[![Slack](https://img.shields.io/badge/Slack-Join%20Community-4A154B?logo=slack&logoColor=white&style=for-the-badge)](https://tadreeblms.slack.com/join/XXXXXXXXXXXX)
+[![Slack](https://img.shields.io/badge/Slack-Join%20Community-4A154B?logo=slack&logoColor=white&style=for-the-badge)](https://join.slack.com/t/tadreeblms/shared_invite/zt-3ovq5kks5-_GojDiBzfT259m7DfHhhzw)
 
 
 
@@ -96,6 +96,14 @@ We welcome contributions in:
 ## 🤝 Contributors
 
 Thank you to everyone who has contributed to TadreebLMS — your efforts make this project better every day.
+
+
+💬 Join Our Slack Community
+
+Want to discuss features, roadmap, or contribute to TadreebLMS? Join our public Slack community:
+
+👉 Join TadreebLMS Slack
+https://join.slack.com/t/tadreeblms/shared_invite/zt-3ovq5kks5-_GojDiBzfT259m7DfHhhzw
 
 
 
