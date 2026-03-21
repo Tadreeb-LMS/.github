@@ -96,6 +96,8 @@ We welcome contributions in:
 ## 🤝 Contributors
 
 Thank you to everyone who has contributed to TadreebLMS — your efforts make this project better every day.
+Top contributors: https://github.com/Zhey-on   , @zhey-on came like a super hero, understood the project in an hour and start raising PR after PR ! on top of that he started finding bugs and genuine functionality enhancement !!! :)
+
 
 
 💬 Join Our Slack Community
